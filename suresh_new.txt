@@ -1,0 +1,3 @@
+this is my new file
+ok
+this line is for staging area
